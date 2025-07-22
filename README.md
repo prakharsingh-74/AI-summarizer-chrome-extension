@@ -22,10 +22,10 @@ A beautiful and powerful Chrome extension that uses Google's Gemini AI to genera
 ## 📸 Screenshots
 
 ### Popup Interface
-![Popup Interface](https://via.placeholder.com/600x400/667eea/ffffff?text=Beautiful+Popup+Interface)
+<img width="517" height="500" alt="image" src="https://github.com/user-attachments/assets/66bb22d6-a1fa-457e-af26-5c317f1509e5" />
 
 ### Settings Page
-![Settings Page](https://via.placeholder.com/600x400/764ba2/ffffff?text=Modern+Settings+Page)
+<img width="1358" height="643" alt="image" src="https://github.com/user-attachments/assets/81d7266c-e506-4ab8-be8b-12a727386442" />
 
 ## 🛠️ Installation
 
@@ -81,7 +81,7 @@ A beautiful and powerful Chrome extension that uses Google's Gemini AI to genera
 - **Manifest V3** - Latest Chrome extension standard
 - **Gemini AI API** - Google's advanced language model
 - **Modern CSS** - Glass morphism design with gradients
-- **Vanilla JavaScript** - Lightweight and fast
+- **JavaScript** - Lightweight and fast
 
 ### File Structure
 ```
@@ -124,29 +124,6 @@ AI-summarizer-chrome-extension/
 3. Load the extension in Developer Mode
 4. Test your changes
 5. Submit a pull request
-
-## 📋 Roadmap
-
-- [ ] 🌍 Support for multiple languages
-- [ ] 📊 Summary analytics and insights
-- [ ] 🎨 Customizable themes
-- [ ] 💾 Save summaries history
-- [ ] 🔗 Share summaries directly
-- [ ] 📱 Mobile browser support
-
-## ❓ FAQ
-
-### Q: Is this extension free to use?
-A: Yes! The extension is completely free. You only need a free Gemini API key from Google.
-
-### Q: Does it work on all websites?
-A: Yes, it works on any webpage with text content. However, it works best on articles and news pages.
-
-### Q: Is my data safe?
-A: Absolutely! Your API key is stored locally, and page content is only sent to Google's secure Gemini API for processing.
-
-### Q: Can I use it offline?
-A: No, an internet connection is required to communicate with the Gemini AI API.
 
 ## 🤝 Contributing
 
